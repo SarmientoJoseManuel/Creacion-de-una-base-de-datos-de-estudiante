@@ -350,3 +350,7 @@ psql --username=freecodecamp --dbname=postgres
 ./student_info.sh
 ./student_info.sh
 ./student_info.sh
+pg_dump --username=freecodecamp --dbname=students > students.sql
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git add .
