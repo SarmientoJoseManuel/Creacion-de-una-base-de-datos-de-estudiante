@@ -90,3 +90,4 @@ student_info.sh
 SELECT student_info.sh students.sql FROM students
 ./student_info.sh
 ./student_info.sh
+./student_info.sh
